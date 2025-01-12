@@ -1,2 +1,2 @@
 # Capston-project
-Data Analysis using SQL Project
+Data Analysis using SQL 
